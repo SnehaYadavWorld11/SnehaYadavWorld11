@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sneha Yadav</h1>
-<div align="center">
-  <img src="https://drive.google.com/file/d/1_4R1aom7t7KS3GFxVIJArTsaabN5Afn5/view?usp=sharing" alt="Full Stack Banner">
-</div>
+![image alt](https://github.com/SnehaYadavWorld11/SnehaYadavWorld11/blob/33bfdba86f5e669514418e0b6b0c2374a8e897b6/Pokecut_1750678051004.jpg)
+
 <h3 align="center">Full Stack Developer from India Always Learning. Always Growing. Always Improving.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=snehayadavworld11&label=Profile%20views&color=0e75b6&style=flat" alt="snehayadavworld11" /> </p>
