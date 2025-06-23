@@ -1,7 +1,6 @@
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/226190894-18e959ba-d458-4a94-ac44-790190f2a947.gif" 
        alt="Hello Everyone" 
-       style="max-width: 100%" 
        width="300"  />
 </p>
 <h1 align="center">I'm Sneha Yadav</h1>
