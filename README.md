@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sneha Yadav</h1>
-![image alt](https://github.com/SnehaYadavWorld11/SnehaYadavWorld11/blob/33bfdba86f5e669514418e0b6b0c2374a8e897b6/Pokecut_1750678051004.jpg)
+![Image](https://github.com/user-attachments/assets/e415d692-017e-4a69-93dc-a59eff7791ca)
 
 <h3 align="center">Full Stack Developer from India Always Learning. Always Growing. Always Improving.</h3>
 
