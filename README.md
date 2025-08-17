@@ -31,9 +31,9 @@
 
 **About Me**<img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" width="300px" align="right" alt="Developer illustration">
 
-**Full Stack Developer**: 
-• Building scalable web apps with **MERN/MEAN** stacks  
-• Bridging frontend elegance with backend robustness  
+**Full Stack Developer**:  
+  🚀 Building scalable web apps with **MERN/MEAN** stacks  
+  🌉 Bridging frontend elegance with backend robustness  
 
 **How to reach me**:  
 📧 snehayadavcoding11@gmail.com  
